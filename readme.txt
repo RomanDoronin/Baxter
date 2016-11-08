@@ -1,3 +1,2 @@
-fgdfgfdgfg
-fdg
+Тренировка использования GitHub
 
